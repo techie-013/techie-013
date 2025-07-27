@@ -2,30 +2,40 @@
 
 <p align="center">
   <i>Tech with purpose. Code with clarity.</i><br/>
-  Building real-world projects one repo at a time.
+  Building real-world solutions — one repo at a time.
 </p>
+
+---
+
+## 💡 About Me
+
+- 🎓 CS undergrad | Product-minded developer
+- 🚀 Passionate about hackathons, rapid prototyping, and building what matters
+- 💬 Strong in Python, frontend UI, voice interfaces & design thinking
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌟 [MessMaster](https://github.com/techie-013/MessMaster)
+### 🌟 [MessMaster](https://github.com/techie-013/MessMaster)  
 Smart campus mess management system that predicts demand, tracks nutrition, and optimizes food planning using AI.  
-Tech Stack: HTML, CSS, Flask, Python, Chart.js  
-▶️ **[Live Demo](https://techie-013.github.io/MessMaster/)**  
+🛠 Tech Stack: HTML, CSS, Flask, Python, Chart.js  
+🔗 **[Live Demo](https://techie-013.github.io/MessMaster/)**  
 
 ---
 
-### 🎨 [DigitalFootprints – Adobe Designathon](https://github.com/techie-013/DigitalFootprints-AdobeDesignathon)
-UI/UX prototype for an app that helps users track and reflect on their digital carbon footprint.  
-Built during the Adobe Designathon @ IIT Delhi using Figma.  
-Focus: Awareness through design thinking and minimalist user journeys.
+### 🎨 [DigitalFootprints – Adobe Designathon](https://github.com/techie-013/DigitalFootprints-AdobeDesignathon)  
+UI/UX prototype that helps users track and reflect on their digital carbon footprint.  
+🎯 Built during Adobe Designathon @ IIT Delhi using Figma.  
+💡 Focus:Minimalist design 
 
 ---
 
-## 🛠️ Languages & Tools
+## 🧠 Languages & Tools
 
-Python · C · HTML · CSS · JavaScript · Flask · Git · Figma · Chart.js · CLI
+<img src="https://skillicons.dev/icons?i=python,html,css,js,figma,flask,git" height="30"/>
+
+Python · C · HTML · CSS · JavaScript · Flask · Git · Figma · Chart.js · CLI · VS Code
 
 ---
 
@@ -41,7 +51,9 @@ Python · C · HTML · CSS · JavaScript · Flask · Git · Figma · Chart.js ·
 ## 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sneha-singh-27436234a)
-- 🌍 Location: Gurugram, India
-- 💬 Ask me about Python, UI design, or how to start shipping projects early.
+- 🌍 Gurugram, India
+- 📩 Let’s chat about Python, UI/UX, voice-first tech, or hackathon collabs!
 
 ---
+
+<sub>✨ Always learning. Always building.</sub>
