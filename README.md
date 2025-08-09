@@ -1,17 +1,19 @@
 <h1 align="center">Hey there, I'm Sneha 👋</h1>
 
 <p align="center">
-  <i>Tech with purpose. Code with clarity.</i><br/>
-  Building real-world solutions — one repo at a time.
+  <i>Where tech meets business. Turning ideas into impact.</i><br/>
+  Building solutions that are as strategic as they are functional.
 </p>
 
 ---
 
 ## 💡 About Me
 
-- 🎓 CS undergrad | Product-minded developer
-- 🚀 Passionate about hackathons, rapid prototyping, and building what matters
-- 💬 Strong in Python, frontend UI, voice interfaces & design thinking
+- 🎓 CS undergrad | Product & innovation enthusiast
+- 🚀 Thrive at the intersection of **technology, design, and business strategy**
+- 🛠 Love rapid prototyping, hackathons, and solving real-world problems
+- 💬 Skilled in Python, frontend UI, voice interfaces, and design thinking
+- 📊 Curious about market fit, user experience, and sustainable product growth
 
 ---
 
@@ -19,7 +21,7 @@
 
 ### 🌟 [MessMaster](https://github.com/techie-013/MessMaster)  
 Smart campus mess management system that predicts demand, tracks nutrition, and optimizes food planning using AI.  
-🛠 Tech Stack: HTML, CSS, Flask, Python, Chart.js  
+🛠 **Tech Stack:** HTML, CSS, Flask, Python, Chart.js  
 🔗 **[Live Demo](https://techie-013.github.io/MessMaster/)**  
 
 ---
@@ -27,7 +29,7 @@ Smart campus mess management system that predicts demand, tracks nutrition, and 
 ### 🎨 [DigitalFootprints – Adobe Designathon](https://github.com/techie-013/DigitalFootprints-AdobeDesignathon)  
 UI/UX prototype that helps users track and reflect on their digital carbon footprint.  
 🎯 Built during Adobe Designathon @ IIT Delhi using Figma.  
-💡 Focus:Minimalist design 
+💡 **Focus:** Minimalist, user-centric design with real-world applicability
 
 ---
 
@@ -52,8 +54,8 @@ Python · C · HTML · CSS · JavaScript · Flask · Git · Figma · Chart.js ·
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sneha-singh-27436234a)
 - 🌍 Gurugram, India
-- 📩 Let’s chat about Python, UI/UX, voice-first tech, or hackathon collabs!
+- 📩 Let’s chat about **Python, UI/UX, voice-first tech, startup strategy, or hackathon collabs!**
 
 ---
 
-<sub>✨ Always learning. Always building.</sub>
+<sub>✨ Always learning. Always building. Always bridging tech & business.</sub>
