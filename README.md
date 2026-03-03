@@ -7,10 +7,6 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techie-013&show_icons=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techie-013&layout=compact)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=techie-013)
 
 ---
