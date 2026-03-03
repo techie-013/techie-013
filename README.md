@@ -1,61 +1,132 @@
-<h1 align="center">Hey there, I'm Sneha 👋</h1>
+# Hi, I'm Sneha Singh 👋  
+### B.Tech CSE Student | Tech–Business Builder | AI & Product Enthusiast  
 
-<p align="center">
-  <i>Where tech meets business. Turning ideas into impact.</i><br/>
-  Building solutions that are as strategic as they are functional.
-</p>
+🚀 Building solutions at the intersection of technology, strategy, and real-world impact.
+
+---
+
+## 📊 GitHub Overview
+
+![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=techie-013&show_icons=true&theme=default&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techie-013&layout=compact&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=techie-013&hide_border=true)
 
 ---
 
 ## 💡 About Me
 
-- 🎓 CS undergrad | Product & innovation enthusiast
-- 🚀 Thrive at the intersection of **technology, design, and business strategy**
-- 🛠 Love rapid prototyping, hackathons, and solving real-world problems
-- 💬 Skilled in Python, frontend UI, voice interfaces, and design thinking
-- 📊 Curious about market fit, user experience, and sustainable product growth
+🎓 B.Tech CSE (2024–2028)  
+🏫 Guru Jambheshwar University of Science & Technology  
+
+I’m passionate about building scalable, user-focused tech products.  
+I enjoy rapid prototyping, hackathons, and exploring how technology can solve operational and sustainability challenges.
+
+Currently exploring:
+- AI-driven systems
+- Full-stack web applications
+- Product-market fit
+- SaaS models
+- Sustainable tech innovation
+
+---
+
+## 🛠 Technical Stack
+
+**Languages**
+- Python  
+- C  
+- JavaScript  
+
+**Web & Frameworks**
+- HTML  
+- CSS  
+- Flask  
+
+**Tools**
+- Git & GitHub  
+- Figma (UI/UX)  
+- Chart.js  
+- VS Code  
+- CLI  
+
+**Concepts**
+- Role-based authentication  
+- REST-based backend logic  
+- Basic AI/ML integration  
+- Data-driven dashboards  
+- Product design thinking  
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🌟 [MessMaster](https://github.com/techie-013/MessMaster)  
-Smart campus mess management system that predicts demand, tracks nutrition, and optimizes food planning using AI.  
-🛠 **Tech Stack:** HTML, CSS, Flask, Python, Chart.js  
-🔗 **[Live Demo](https://techie-013.github.io/MessMaster/)**  
+### 🌟 MessMaster
+AI-assisted campus mess management system designed to optimize food planning and reduce waste.
+
+**Features**
+- Role-based authentication (Student / Staff / Admin)
+- Demand prediction logic
+- Inventory tracking
+- Analytics dashboard
+
+**Tech Stack:** Flask · Python · HTML · CSS · Chart.js  
+Built during SustainTech Hackathon (Konark’26).
 
 ---
 
-### 🎨 [DigitalFootprints – Adobe Designathon](https://github.com/techie-013/DigitalFootprints-AdobeDesignathon)  
-UI/UX prototype that helps users track and reflect on their digital carbon footprint.  
-🎯 Built during Adobe Designathon @ IIT Delhi using Figma.  
-💡 **Focus:** Minimalist, user-centric design with real-world applicability
+### 🌱 AssignX (Concept Prototype)
+Skill-based alternative assignment platform aimed at reducing paper use and promoting portfolio-driven education.
+
+- Task transformation framework  
+- Skill-tagged evaluation  
+- Eco-impact scoring model  
+- SaaS scalability roadmap  
+
+Presented at Konark’26.
 
 ---
 
-## 🧠 Languages & Tools
+### 🎨 DigitalFootprints
+UI/UX prototype built during Adobe Designathon.
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,figma,flask,git" height="30"/>
+Focus:
+- Minimalist sustainable design  
+- Digital carbon footprint tracking  
+- User-centric behavior nudging  
 
-Python · C · HTML · CSS · JavaScript · Flask · Git · Figma · Chart.js · CLI · VS Code
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=techie-013&show_icons=true&theme=radical&hide_title=true" height="150px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=techie-013&layout=compact&theme=radical&hide_title=true" height="150px"/>
-</p>
+Built using Figma.
 
 ---
 
-## 📫 Connect with Me
+## 🏆 Experience Snapshot
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/sneha-singh-27436234a)
-- 🌍 Gurugram, India
-- 📩 Let’s chat about **Python, UI/UX, voice-first tech, startup strategy, or hackathon collabs!**
+**Global Business Manager (Intern → Full-Time)**  
+Uptempo Global Inc. (Remote)  
+- Exposure to international business processes  
+- Cross-functional team collaboration  
+- Business development operations  
+
+**Coordinator – iConnect GJUST**
+- Event execution  
+- Competition coordination  
+- Documentation & analytics support  
 
 ---
 
-<sub>✨ Always learning. Always building. Always bridging tech & business.</sub>
+## 🎯 2026 Focus
+
+- Ship one production-ready full-stack application  
+- Strengthen backend architecture & system design  
+- Improve DSA & core CS fundamentals  
+- Maintain consistent GitHub contribution graph  
+
+---
+
+## 📫 Connect With Me
+
+📍 Gurugram, India  
+🔗 LinkedIn: https://www.linkedin.com/in/sneha-singh-27436234a/  
+
+✨ Always learning. Always building. Bridging tech & business.
