@@ -5,13 +5,13 @@
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Stats
 
-![Sneha's GitHub stats](https://github-readme-stats.vercel.app/api?username=techie-013&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=techie-013&show_icons=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techie-013&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=techie-013&layout=compact)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=techie-013&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=techie-013)
 
 ---
 
