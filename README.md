@@ -1,128 +1,137 @@
-# Hi, I'm Sneha Singh 👋  
-### B.Tech CSE Student | Tech–Business Builder | AI & Product Enthusiast  
+# Hi, I'm Sneha Singh 👋
 
-🚀 Building solutions at the intersection of technology, strategy, and real-world impact.
+<h3 align="center">Computer Science Engineering Student • Software Developer • AI & Full-Stack Enthusiast</h3>
 
----
-
-## 📊 GitHub Stats
-
-![GitHub Streak](https://streak-stats.demolab.com?user=techie-013)
+<p align="center">
+Building software that bridges technology, AI, and real-world impact.
+</p>
 
 ---
 
-## 💡 About Me
+## 🚀 About Me
 
-🎓 B.Tech CSE (2024–2028)  
-🏫 Guru Jambheshwar University of Science & Technology  
-
-I’m passionate about building scalable, user-focused tech products.  
-I enjoy rapid prototyping, hackathons, and exploring how technology can solve operational and sustainability challenges.
-
-Currently exploring:
-- AI-driven systems
-- Full-stack web applications
-- Product-market fit
-- SaaS models
-- Sustainable tech innovation
+- 🎓 B.Tech CSE @ Guru Jambheshwar University of Science & Technology (2024–2028)
+- 💻 Passionate about Full-Stack Development, Backend Engineering & AI
+- 🌱 Currently learning **React, Spring Boot, System Design & DSA**
+- 🚲 Building **VELO** – Smart Campus Mobility Platform
+- 🍽 Building AI-powered solutions like **MessMaster**
+- ⚡ Love hackathons, open-source and solving real-world problems
 
 ---
 
-## 🛠 Technical Stack
+# 🛠 Tech Stack
 
-**Languages**
-- Python  
-- C  
-- JavaScript  
+### Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-**Web & Frameworks**
-- HTML  
-- CSS  
-- Flask  
+### Frontend
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-Learning-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-**Tools**
-- Git & GitHub  
-- Figma (UI/UX)  
-- Chart.js  
-- VS Code  
-- CLI  
+### Backend
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-Learning-6DB33F?style=for-the-badge&logo=springboot)
 
-**Concepts**
-- Role-based authentication  
-- REST-based backend logic  
-- Basic AI/ML integration  
-- Data-driven dashboards  
-- Product design thinking  
+### Database
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+
+### Tools
+Git • GitHub • VS Code • Figma • Chart.js • Postman
 
 ---
 
-## 🚀 Featured Projects
+# 📈 GitHub Stats
 
-### 🌟 MessMaster
-AI-assisted campus mess management system designed to optimize food planning and reduce waste.
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=techie-013&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=techie-013&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=techie-013&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+[![Sneha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=techie-013&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=techie-013&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 🚲 VELO *(In Progress)*
+
+Smart Campus Mobility Platform
+
+**Tech Stack**
+- React
+- Spring Boot
+- Firebase
+- REST APIs
+
+---
+
+## 🍽 MessMaster
+
+AI-powered Campus Mess Management System
 
 **Features**
-- Role-based authentication (Student / Staff / Admin)
-- Demand prediction logic
-- Inventory tracking
-- Analytics dashboard
-
-**Tech Stack:** Flask · Python · HTML · CSS · Chart.js  
-Built during SustainTech Hackathon (Konark’26).
+- Role Based Authentication
+- Analytics Dashboard
+- Demand Prediction
+- Inventory Management
 
 ---
 
-### 🌱 AssignX (Concept Prototype)
-Skill-based alternative assignment platform aimed at reducing paper use and promoting portfolio-driven education.
+## 📄 AssignX
 
-- Task transformation framework  
-- Skill-tagged evaluation  
-- Eco-impact scoring model  
-- SaaS scalability roadmap  
-
-Presented at Konark’26.
+Skill-Based Alternative Assignment Platform
 
 ---
 
-### 🎨 DigitalFootprints
-UI/UX prototype built during Adobe Designathon.
+## 🌍 CivicLens
 
-Focus:
-- Minimalist sustainable design  
-- Digital carbon footprint tracking  
-- User-centric behavior nudging  
-
-Built using Figma.
+AI-powered Civic Issue Reporting Platform
 
 ---
 
-## 🏆 Experience Snapshot
+# 📊 Coding Activity
 
-**Global Business Manager (Intern → Full-Time)**  
-Uptempo Global Inc. (Remote)  
-- Exposure to international business processes  
-- Cross-functional team collaboration  
-- Business development operations  
-
-**Coordinator – iConnect GJUST**
-- Event execution  
-- Competition coordination  
-- Documentation & analytics support  
+- 💻 Building Full Stack Applications
+- 📚 Solving DSA Problems
+- 🚀 Exploring AI Integrations
+- 🔥 Open Source Contributions
 
 ---
 
-## 🎯 2026 Focus
+# 🤝 Connect With Me
 
-- Ship one production-ready full-stack application  
-- Strengthen backend architecture & system design  
-- Improve DSA & core CS fundamentals  
-- Maintain consistent GitHub contribution graph  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sneha%20Singh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sneha-singh-27436234a/)
 
----
-
-## 📫 Connect With Me
-
-📍 Gurugram, India  
-🔗 LinkedIn: https://www.linkedin.com/in/sneha-singh-27436234a/  
-
-✨ Always learning. Always building. Bridging tech & business.
+⭐ Always learning. Always building.
