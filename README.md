@@ -133,12 +133,6 @@ A project exploring smarter ways to compare and discover better product deals.
 
 ---
 
-## 🟦 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=techie-013&theme=tokyo-night&hide_border=true&area=true"/>
-</p>
-
 > **Code is a habit, not a one-time achievement.**
 
 ---
